@@ -1,0 +1,45 @@
+.content{
+    float:left;;
+    width: 60%;
+    padding: 0 0 0 30px;
+}
+.sidebar{
+   float: right;
+   width: 30%;
+   padding: 10px;
+   background: lawngreen;
+   height: 100%;
+}
+h1{
+    text-align: center;
+    border-bottom: 1px solid;
+    padding: 0 0 10px 0;
+}
+#date{
+    color:black;
+    font-size:12px;
+    font-style: italic;
+}
+
+body{
+    background: lightblue;
+    color: azure;
+}
+
+#ch{
+    color:black;
+    font-style: italic;
+}
+.cb{
+    background-color: lightcyan;
+    color:green;
+}
+
+#homeicon{
+    width: 40px;
+    height: 30px;
+}
+
+#la{
+    background-color: white;
+}
