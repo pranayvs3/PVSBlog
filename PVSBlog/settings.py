@@ -81,11 +81,11 @@ DATABASES = {
      #   'ENGINE': 'django.db.backends.sqlite3',
       #  'NAME': BASE_DIR / 'db.sqlite3',
             'ENGINE': 'django.db.backends.mysql',
-            'HOST': 'localhost',
+            'HOST': 'pranayvs.mysql.pythonanywhere-services.com',
             'PORT': '3306',		#3306 or 3308
-            'NAME': 'blogdb',
-            'USER': 'root',
-            'PASSWORD': 'root',
+            'NAME': 'pranayvs$default',
+            'USER': 'pranayvs',
+            'PASSWORD': 'Pranay@kunda@8109',
         }
 }
 
